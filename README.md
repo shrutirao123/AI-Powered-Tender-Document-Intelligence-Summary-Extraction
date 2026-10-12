@@ -33,7 +33,7 @@ This repository provides a high-level technical overview of the project and does
 | AI Integration | OpenAI API |
 | Database | MySQL |
 | Document Format | PDF |
-| Frontend | HTML, CSS, JavaScript, if applicable |
+| Frontend | HTML, CSS, JavaScript |
 
 ## System Workflow
 
